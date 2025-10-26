@@ -1,7 +1,5 @@
 ![PitDivine](https://github.com/user-attachments/assets/cb8db751-d8c9-45cc-9a4b-b644a12cf0a1)
 
-# PitDivine
-
 ## Introduction
 PitDivine (a play to "a bit divine") is a program designed as an attempt to answer and explore 'What if?' race scenarios, for example: 'What if Ferrari hadn't fucked up Leclerc in Monaco 2022?'. This race strategy simulator utilizes real historical race data and basic machine learning models to predict optimal pit stop timing and tire strategy for any driver or circuit.
 
